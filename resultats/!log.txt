@@ -78,7 +78,6 @@ resultats/PMBlax29032234.gif : nu=7e-05, lambda=8e-08, T=1, N=300, ce qui donne 
 resultats/PMBlax29032238.gif : nu=7e-05, lambda=1e-08, T=1, N=300, ce qui donne CFL=0.04543326666666666
 resultats/PMBlax30031030.gif : nu=0.00015407212629805768, lambda=1e-06, T=1, N=300, ce qui donne CFL=0.1
 resultats/PMBlax30032358.gif : nu=0.0015407212629805767, lambda=1e-06, T=1, N=300, ce qui donne CFL=1.0
-
 resultats/PMBlax31031145.gif : nu=0.0015407212629805767, lambda=1e-06, T=1, N=300, ce qui donne CFL=1.0
 resultats/PMBPVlax31031452.gif : nu=0.0015407212629805767, lambda=1e-06, T=1, N=300, ce qui donne CFL=1.0
 resultats/PMBPVlax31031456.gif : nu=0.0006162885051922307, lambda=1e-06, T=1, N=300, ce qui donne CFL=0.4
