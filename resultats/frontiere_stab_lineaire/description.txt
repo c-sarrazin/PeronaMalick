@@ -1,0 +1,8 @@
+LIN_0,5 : nu=0.0007703606314902883, lambda=0, T=2, N=600, ce qui donne CFL=0.5
+⤷ convergence
+
+LIN_0,52 : nu=0.0008011750567498999, lambda=0, T=2, N=600, ce qui donne CFL=0.52
+⤷ apparition, assez lente pour être visible, du damier de divergence
+
+LIN_0.6 : nu=0.0009244327577883461, lambda=0, T=2, N=600, ce qui donne CFL=0.6000000000000001
+⤷ apparition plus rapide de régions de divergence
