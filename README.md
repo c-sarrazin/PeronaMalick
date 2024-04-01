@@ -1,7 +1,7 @@
 # Quelques précisions sur la structure de ce dossier
 
 - `auto_run_lambda` et `auto_run_nu` ont été utilisés pour tester automatiquement (sur une nuit) de nombreuses valeurs de $\lambda$ et de $\nu$ avec un petit script bash (respectivement, lambdas.sh et nus.sh)
-    - le sous-dossier `resultats` contient les résultats intéressants de ces exécutions ; pour ne pas trop alourdir ce dossier nous avons supprimer la majorité des fichiers issus de ces tests.
+    - le sous-dossier `resultats` contient les résultats intéressants de ces exécutions ; pour ne pas trop alourdir ce dossier nous avons supprimé la majorité des fichiers issus de ces tests.
     - attention : ne pas lancer le script bash (il effectue près d'une centaine d'exécutions de Perona-Malik!)
 
 - `photos` contient les images que nous avons utilisé comme tests
